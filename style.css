@@ -1,8 +1,10 @@
+/* Todos os elementos da página */
 * {
   margin: 0;
   padding: 0;
 }
 
+/* Elementos com o ID "titulo"*/
 #titulo {
   font-family: sans-serif;
   color: #380b61;
